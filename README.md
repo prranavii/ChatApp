@@ -4,34 +4,23 @@
 
 [Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
 
-Some Features:
+Features:
+🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 
--   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
--   🎃 Authentication && Authorization with JWT
--   👾 Real-time messaging with Socket.io
--   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
--   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+🔐 Authentication & Authorization with JWT
 
-### Setup .env file
+📝 Real-time collaborative editing with Socket.io
 
-```js
-PORT=...  
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
-```
-    
-### Build the app
+👥 Multiple users can work on a shared board simultaneously
 
-```shell
-npm run build
-```
+🚀 Online user presence tracking (Socket.io and React Context)
 
-### Start the app
+📌 Drag-and-drop elements on the board (for tasks, notes, or drawings)
 
-```shell
-npm start
-```
+🎨 Customizable themes & layouts using Tailwind & Daisy UI
+
+🔄 Global state management with Zustand
+
+🐞 Error handling on both client & server
+
+⭐ Deployment like a pro for FREE!
